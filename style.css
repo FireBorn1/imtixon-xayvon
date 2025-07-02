@@ -1,0 +1,66 @@
+h1{
+    text-align: center; 
+   background-color: rgb(224, 255, 255);
+    border: 2px solid red;  
+    border-radius: 10px;
+padding: 10px;
+} 
+.comment{
+    margin-top: 20px;
+} 
+.bomish{
+    background-color: yellow; 
+    border-radius: 5px;
+    height: 20px;
+    align-items: center;
+    text-align: center;
+}
+.rasmlar{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.video{
+    width: 100px;
+    height: 360px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+textarea{
+    width: 100%;
+    padding: 10px; 
+    font-size: 1em;
+    margin-top: 5px;
+}
+button{
+    background-color: #333ab7;
+    color: white;
+    padding: 10px 20px;
+    border: none; 
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+th, td{
+    border: 2px solid black; 
+    padding: 10px;
+    text-align: center;
+}
+.yashil{
+    background-color: green; 
+    color: white;
+}
+.kok{
+    background-color: blue;
+    color: white;
+}
+.qizil{
+    background-color: red;
+    color: white;
+}
